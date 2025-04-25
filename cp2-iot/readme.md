@@ -24,7 +24,7 @@ Siga os passos abaixo para configurar o ambiente e rodar o projeto:
 
 2. **Instale as dependências necessárias:**
    
-   No terminal, execute o comando abaixo para instalar o OpenCV e NumPy:
+   No terminal, execute o comando abaixo para instalar o OpenCV:
 
    ```bash
    pip install opencv-python
