@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 # Função para detectar características na imagem (exemplo: manchas suspeitas)
 def detectar_manchas(imagem):
