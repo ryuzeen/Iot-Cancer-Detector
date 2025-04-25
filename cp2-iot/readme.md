@@ -69,6 +69,6 @@ Este sistema de detecção de bordas pode ser a base para um sistema mais robust
 3. Criar uma interface gráfica para interação do usuário com o sistema.
 
 ## **Autores**
-RM - 93092 
-RM - 97894
-RM - 55078
+- RM - 93092
+- RM - 97894
+- RM - 55078
